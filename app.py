@@ -381,6 +381,7 @@ def load_demo_data():
 
     return jsonify({"message": "Dados de demonstração adicionados."}), 201
 
+init_database()
 
 if __name__ == "__main__":
     init_database()
