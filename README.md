@@ -4,6 +4,9 @@ Dashboard financeiro pessoal desenvolvido com **Python, Flask, SQLite, HTML, CSS
 
 O projeto permite cadastrar receitas e despesas, acompanhar o saldo, filtrar lançamentos, visualizar gráficos e exportar os dados para CSV.
 
+## Live Demo
+
+🌐 https://personalfinance-1-i5w3.onrender.com/
 ## Funcionalidades
 
 - Cadastro de receitas e despesas
@@ -33,7 +36,7 @@ O projeto permite cadastrar receitas e despesas, acompanhar o saldo, filtrar lan
 ### 1. Clone o repositório
 
 ```bash
-git clone SEU_LINK_DO_REPOSITORIO
+git clone https://github.com/anaclrsnts/personalfinance.git
 cd personal-finance-dashboard
 ```
 
